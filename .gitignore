@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+\.ipynb_checkpoints/
+
+temboo/
+
+temboo_python_sdk_2\.21\.0\.zip
